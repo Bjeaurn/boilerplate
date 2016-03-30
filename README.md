@@ -6,6 +6,7 @@ Small boilerplate project with a very lightweight and easy to use framework. Inc
 
 # Usage
 - Download it into a folder. 
+- Edit the "includes/config.php" to your liking and settings, and save.
 - Browse to the project folder using your browser.
 - That's it!
 
